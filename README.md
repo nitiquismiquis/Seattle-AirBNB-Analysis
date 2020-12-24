@@ -27,15 +27,27 @@ Overview of the AirBNB Dataset - Applying ML Linear Regression models to explore
     * host_is_superhost_t - positevely
 
 <h2>Libraries Used</h2>
-   - numpy
-   - pandas
-   - matplotlib.pyplot
-   - seaborn
-   - sklearn (LinearRegression, train_test_split, r2_score, mean_squared_error)
+    * numpy
+    * pandas
+    * matplotlib.pyplot
+    * seaborn
+    * sklearn (LinearRegression, train_test_split, r2_score, mean_squared_error)
    
 <h2>Files</h2>
-   - Seattle AirBNB Analysis.ipynb
-   - calendar.csv
-   - listings.csv
-   - calendar.csv
-   - README.md
+    * Seattle AirBNB Analysis.ipynb
+    * calendar.csv
+    * listings.csv
+    * calendar.csv
+    * README.md
+
+<h2>acknowledgements</h2>
+ 
+    * Kaddle.com
+    * Anaconda3
+    * GitHub Pages
+    * Scikit-learn
+   
+<h2>Contacts</h2>
+
+   Rodrigo - nitiquismiquis@hotmail.com
+   Project Link: https://github.com/nitiquismiquis/Seattle-AirBNB-Analysis.git
